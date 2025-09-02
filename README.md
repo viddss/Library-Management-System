@@ -71,11 +71,8 @@ The system comes pre-loaded with a curated collection of books, including titles
 - Phone: 9999999999
 
 ### Students
-- Gautam Arora (ID: 2, Roll Number: 220405)
+- Vidhan Singh Sisodiya (ID: 2, Roll Number: 220508)
 - Rahul Yadav (ID: 3, Roll Number: 230756)
-- Rohan Raju (ID: 4, Roll Number: 240906)
-- Madhav Gupta (ID: 5, Roll Number: 210606)
-- Kavya Nair (ID: 6, Roll Number: 191080)
 
 ### Faculty
 - Prof. Anil Kumar (ID: 7)
@@ -438,4 +435,5 @@ The system includes validation for:
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
+
 5. Create a new Pull Request 
