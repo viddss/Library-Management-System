@@ -1,0 +1,5 @@
+6|Kavya Nair|kavya@example.com|1234567895|Student|password
+2|Gautam Arora|gautam@example.com|1234567891|Student|password
+3|Rahul Yadav|rahul@example.com|1234567892|Student|password
+4|Rohan Raju|rohan@example.com|1234567893|Student|password
+5|Madhav Gupta|madhav@example.com|1234567894|Student|password
